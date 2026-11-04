@@ -63,7 +63,7 @@ This project helps evaluate city-wise sales performance, customer demand, popula
 - Calculating monthly growth rates using the LAG function.
 - Evaluating market opportunities through data-driven analysis.
 
----
+
 
 ## 🏁 Conclusion
 
@@ -73,5 +73,6 @@ The analysis also highlights potential cities for business expansion by evaluati
 
 This project demonstrates the importance of data-driven decision-making in improving business performance and identifying future growth opportunities.
 
+---
 **Created by Arti Gautam**  
 *SQL | Data Analysis | Microsoft SQL Server*
